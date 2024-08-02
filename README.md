@@ -66,6 +66,21 @@ Ankara'daki hastaneler, AVM'ler, üniversiteler, sinemalar, tiyatrolar, müzeler
     - API sunucusu `http://localhost:8000` adresinde çalışır.
 
 
+## API Testleri
+
+#### Test Dosyaları: Tüm API testleri GuideAnkaraTest klasöründe bulunmaktadır.
+
+#### API testlerini çalıştırmak için aşağıdaki adımları izleyin:
+
+1. Test bağımlılıklarını yükleyin:
+   ```sh
+   pip install -r requirements.txt
+
+2. Testleri çalıştırın
+   ```sh
+   python -m unittest discover -s GuideAnkaraTest
+
+
 
 ## Görünümler
 

@@ -84,11 +84,11 @@ Ankara'daki hastaneler, AVM'ler, üniversiteler, sinemalar, tiyatrolar, müzeler
 
 ## Görünümler
 
-![AnkaraGuidance](https://github.com/cngzhn06/AnkaraGuidance/assets/95685025/eb27da5e-309d-409a-aab2-4dae63576613)
+<img width="1593" alt="image" src="https://github.com/user-attachments/assets/a5468778-089f-4010-9a88-09b17073a9fc">
 
-![AnkaraGuidance2](https://github.com/cngzhn06/AnkaraGuidance/assets/95685025/f2b0399a-13c6-4984-bdd1-5a4c9fc6ce81)
+<img width="1582" alt="image" src="https://github.com/user-attachments/assets/b4505484-cd6d-4c52-be3e-5e140c6ca0a6">
 
-![AnkaraGuidance3](https://github.com/cngzhn06/AnkaraGuidance/assets/95685025/1cf6c7ba-a430-4226-974a-3abb851b8aa1)
+<img width="1593" alt="image" src="https://github.com/user-attachments/assets/90d5ad9c-765e-4892-bc3a-9b131cda3a9b">
 
 
 
